@@ -43,5 +43,5 @@ Durante mi trayectoria en el proyecto, implementé funcionalidades complejas que
 ## Contacto
 
 * **Ubicación:** Santa Fe, Argentina
-* **LinkedIn:** https://www.linkedin.com/in/luis-carmagnoli/
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/luis-carmagnoli/)
 * **Email:** luisfabiancarmagnoli@gmail.com
