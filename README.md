@@ -1,4 +1,4 @@
-# Hola, soy Luis Carmagnoli
+# Hola, soy Luis Carmagnoli 
 
 ### Técnico Superior en Desarrollo de Software | Full-Stack .NET & Frontend Developer
 
@@ -19,6 +19,7 @@ Durante mi trayectoria en el proyecto, implementé funcionalidades complejas que
 * **Evaluación de Desempeño y Plan de Carrera:** Implementación del núcleo analítico del sistema, representando el módulo de mayor complejidad debido a la alta densidad de relaciones lógicas y tablas vinculadas en la base de datos.
 * **Gestión Documental Legal:** Módulo dedicado a la administración, tipificación y firma digital de documentación sensible, como recibos de sueldo.
 * **Comunicación Interna:** Construcción de una sección de eventos con vistas de calendario dinámicas (feriados, cumpleaños, eventos corporativos), un sistema de notificaciones internas y un foro interactivo con ciclo de vida completo (CRUD), incluyendo hilos de comentarios y reacciones en tiempo real.
+* **Calidad y Eficiencia Operativa:** Aseguramiento de la calidad del código y los datos mediante validaciones automáticas, testing manual exhaustivo en entornos Desktop y Mobile (Responsive), bases de testing unitario, documentación con Swagger y optimización del ciclo de desarrollo utilizando IA generativa y metodologías Scrum.
 
 ---
 
@@ -27,12 +28,13 @@ Durante mi trayectoria en el proyecto, implementé funcionalidades complejas que
 * **Backend:** C#, .NET (ASP.NET Core), LINQ, Entity Framework Core, Dapper, Mapster, Serilog.
 * **Frontend:** Vue.js, React, JavaScript, TypeScript, Pinia, Tailwind CSS.
 * **Bases de Datos & Herramientas:** SQL Server, T-SQL, PostgreSQL, MySQL, Supabase, Firebase.
-* **Testing & Arquitectura:** Clean Architecture, Testing Automatizado (xUnit, Moq, Fluent Assertions), FluentValidation.
+* **Testing & Arquitectura:** Clean Architecture, Testing Manual (Desktop / Responsive), Testing Automatizado (xUnit, Moq, Fluent Assertions), FluentValidation.
 * **DevOps & Flujo de Trabajo:** Git, Bitbucket, Docker, Swagger, Postman, Scrum.
 
 ---
 
 ## Capacitaciones Recientes
+
 * **Master in ASP.NET MVC: Entity Framework (.NET 10)** – Udemy | 2026
 * **C# API Mastery: C# en el Backend desde la práctica** – Udemy | 2025
 * **Máster en SQL Server: Desde Cero a Profesional** – Udemy | 2025
