@@ -38,6 +38,12 @@ Durante mi trayectoria en el proyecto, implementé funcionalidades complejas que
 
 ---
 
+## Idiomas
+* **Español:** Nativo
+* **Inglés:** Nivel B1 Intermediate ([Certificado EF SET](https://cert.efset.org/en/5P2kdG)) – Especializado en lectura técnica, documentación y recursos de desarrollo.
+
+---
+
 ### Contacto
 * **Ubicación:** Santa Fe, Argentina
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/luis-carmagnoli)
